@@ -316,7 +316,7 @@ PostgreSQL is required for the SQL feature-aggregation stage. Download the sourc
 
 ## Author
 
-**[Your Name]**  
-[LinkedIn](https://www.linkedin.com/) · [Email](mailto:you@example.com)
+**[Aslan Faracov]**  
+[LinkedIn](https://www.linkedin.com/in/aslan-faracov-b316ba34a/) · [Email](mailto:afereco@gmail.com)
 
 *Built as a Data Science portfolio project. The dataset is provided by Home Credit and distributed through the Kaggle competition.*
